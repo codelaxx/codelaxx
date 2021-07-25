@@ -10,11 +10,14 @@ Biography
 ✨ On my spare time I...
 - Shoot big and small guns, both modern and gun powder antiques, maybe a rifle in the future, love that smell of gun powder, chases away mosquitos
 - Paddle kayaks, learning the eskimo paddle
-- Ride my classic Honda Fireblade 954RR
+- Ride my classic 2003 Honda Fireblade 954RR
 - Maintain my Honda
 - Patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jag on a good day
+- Plan my Coding Dojo or Code Club endeavours
+- Rock one of my Commodore computers, be it VIC20, C64, A500, A600, or the new fullsize "The C64" remake"
+- Work on my Raspberry Pi 4 based arcade projects with Retropie, trying to get the younger generation interested and engaged
 - Use my imagination
-- Get schooled by my kids when it comes to use imagination
+- Get schooled by my kids when it comes to using the imagination
 - Woodwork and fix my house, never ending annoying project, started out fun, now I want to move, give me money!
 - Postpones fixing up my old wooden boat, will do it in some decades after retirement I think...
 - Learn an insane amount of usefull and not so usefull stuff, both tech, coding, and just life, world, and universe related stuff
@@ -23,11 +26,14 @@ Biography
 ✨ And I hope to do more in the coming months and years of...
 - Competitive skeet shooting
 - IPSC or Dynamic competitions
-- Downhill or slalom with carving skiis, I have just put my Burton board away for a while or forever
+- Downhill or slalom with carving skiis, I have just put my Burton board away for a while, or forever
 - Reboot cross country since I finally got myself a little cottage with no electricity or water in the forrest
+- Get a real woodmill and start producing wood paneling
+- Buy a miniature digger and start digging, or buy a bigger one and do my certification, #Caterpillar
 - Old boys biathlon, is that a thing???
-- Open water swimming, yes, that's swimming in relatively cold water with a wet suite like it was in a pool, good stuff
+- Open water swimming, yes, that's swimming in relatively cold water with a wet suit like it was in a pool, good stuff
 - Do more cooking
+- Do my first presentations and workshops for large conferences, I'm good at it but it's so freakin scary, damn you imposter syndrome!!!
 - Launch 36 startups
 
 
