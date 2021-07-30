@@ -12,7 +12,7 @@ Biography
 - Paddle kayaks, learning the eskimo paddle
 - Ride my classic 2003 Honda Fireblade 954RR
 - Maintain my Honda
-- Patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jag on a good day
+- Patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jags on a good day
 - Plan my Coding Dojo or Code Club endeavours
 - Rock one of my Commodore computers, be it VIC20, C64, A500, A600, or the new fullsize "The C64" remake". An A1200 would be nice!
 - Work on my Raspberry Pi 4 based arcade projects with Retropie, trying to get the younger generation interested and engaged
