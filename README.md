@@ -2,7 +2,7 @@ TLDR; I dig tech and coding, but I have a life, girlfriend and kids
 
 Biography
 - 👋 Hi, I’m @codelaxx
-- 👀 I’m interested in Java, Python, Javascript, DevOps, Frontend, GameDev, IoT, NB-Iot/LTE-m/LoRa/LPWAN, arduino/esp/atmel, design, efficient and effective coding, deep skills
+- 👀 I’m interested in Java, Python, Javascript, DevOps, Frontend, GameDev, IoT, NB-Iot/LTE-m/LoRa/LPWAN, embedded, arduino/esp/atmel, design, efficient and effective coding, deep skills
 - 🌱 I’m currently learning Google cloud certifications, DevOps in general, frontend, and some fun GameDev projects to keep motivated (and that pesky Java-certification on the back burner, 10 years coming now, bah)
 - 💞️ I’m looking to collaborate on nothing at the moment, but I have a few things that are going to be huge in the social responsibility category, non profit øf cørse
 - 📫 How to reach me? Catch me outside ;p
@@ -14,7 +14,7 @@ Biography
 - Maintain my Honda
 - Patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jag on a good day
 - Plan my Coding Dojo or Code Club endeavours
-- Rock one of my Commodore computers, be it VIC20, C64, A500, A600, or the new fullsize "The C64" remake"
+- Rock one of my Commodore computers, be it VIC20, C64, A500, A600, or the new fullsize "The C64" remake". An A1200 would be nice!
 - Work on my Raspberry Pi 4 based arcade projects with Retropie, trying to get the younger generation interested and engaged
 - Use my imagination
 - Get schooled by my kids when it comes to using the imagination
@@ -23,7 +23,9 @@ Biography
 - Learn an insane amount of usefull and not so usefull stuff, both tech, coding, and just life, world, and universe related stuff
 - Get ranked top 5% on all topics I have taken LinkedIn skill badges on, including Git, LoL!
 
-✨ And I hope to do more in the coming months and years of...
+✨ And I hope to start or do more in the coming months and years of...
+- Enduro racing on a leisurly amateur level, on a 125-350cc bike
+- Stand-Up-Paddle now soon, after recovering from an injured leg muscle that made getting up on my feet on the board too difficult
 - Competitive skeet shooting
 - IPSC or Dynamic competitions
 - Downhill or slalom with carving skiis, I have just put my Burton board away for a while, or forever
