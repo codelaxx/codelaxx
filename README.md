@@ -10,9 +10,8 @@ Biography
 ✨ On my spare time I...
 - Shoot big and small guns, both modern and gun powder antiques, maybe a rifle in the future, love that smell of gun powder, chases away mosquitos
 - Paddle kayaks, learning the eskimo paddle
-- Ride my classic 2003 Honda Fireblade 954RR
-- Maintain my Honda
-- Patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jags on a good day
+- Ride, service, and maintain my classic 2003 Honda Fireblade 954RR
+- Ride and patch up my 20 year old Subaru forrester, making sure it can still outrun Teslas and IPace-Jags on a good day
 - Plan my Coding Dojo or Code Club endeavours
 - Rock one of my Commodore computers, be it VIC20, C64, A500, A600, or the new fullsize "The C64" remake". An A1200 would be nice!
 - Work on my Raspberry Pi 4 based arcade projects with Retropie, trying to get the younger generation interested and engaged
@@ -36,6 +35,8 @@ Biography
 - Open water swimming, yes, that's swimming in relatively cold water with a wet suit like it was in a pool, good stuff
 - Do more cooking
 - Do my first presentations and workshops for large conferences, I'm good at it but it's so freakin scary, damn you imposter syndrome!!!
+- Pro spray painting and micro paint / brush painting
+- Welding, electric/tig
 - Launch 36 startups
 
 
